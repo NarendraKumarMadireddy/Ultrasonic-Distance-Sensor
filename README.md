@@ -2,8 +2,7 @@
 # Arduino library for HC-SR04 ultrasonic distance sensor.
 
 HC-SR04 is an ultrasonic sensor that measures distances from 2 to 400cm.
-
-![HC-SR04](/hcsr04.jpg)
+![3](https://github.com/NarendraKumarMadireddy/Ultrasonic-Distance-Sensor/assets/95516178/c2fbe14a-ba00-4604-a96a-9ebee2eb7646)
 
 This is a simple library for it!
 
